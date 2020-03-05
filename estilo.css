@@ -19,7 +19,23 @@ ul li a {
 }
 
 ul li a:hover {
-    background-color:#D6D6D6;
-    color: #6D6D6D;
+    background-color:#363636;
+    color: #fff;
     border-bottom:3px solid #EA0000;
 }
+
+img{margin-left: 500px;
+    margin-top: 15PX;
+    }
+.botao{background-color: #191970;
+       border:0;
+       color:#A9A9A9 ;
+    border-radius: 5px;
+height: 30px;
+width: 100px;}
+.botao:hover{background-color: #0000FF;
+    border:0;
+    color:#000 ;
+ border-radius: 5px;
+height: 32px;
+width: 102px;}
